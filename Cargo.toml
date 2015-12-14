@@ -2,3 +2,12 @@
 name = "advent-of-code"
 version = "0.1.0"
 authors = ["ghotiphud <yale.cason@gmail.com>"]
+
+[[bin]]
+name = "day-1"
+path = "src/day-1.rs"
+
+
+[[bin]]
+name = "day-2"
+path = "src/day-2.rs"
